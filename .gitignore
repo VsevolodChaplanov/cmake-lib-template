@@ -19,6 +19,11 @@ test_package/CMakeUserPresets.json
 .idea
 .vscode/
 
+.cache
+.mypy_cache
+.venv
+.vscode
+
 # Prerequisites
 *.d
 

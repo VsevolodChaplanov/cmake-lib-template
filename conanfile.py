@@ -18,8 +18,8 @@ class ProjectRecipe(ConanFile):
         "CMakeLists.txt",
         "dependencies.cmake",
         "options.cmake",
-        "core/**",
-        "utility/**",
+        "include/**",
+        "src/**",
         "cmake/**",)
 
     @property
